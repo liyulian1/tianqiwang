@@ -1,0 +1,14 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<litepal>
+    <dbname value="cool_weather2"/>
+    <version value="2"/>
+
+    <list>
+        <mapping class="com.example.myapplication.dp.Province"/>
+        <mapping class="com.example.myapplication.dp.City"/>
+        <mapping class="com.example.myapplication.dp.County"/>
+
+    </list>
+
+
+</litepal>
